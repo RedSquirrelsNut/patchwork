@@ -1,11 +1,12 @@
-# Mosaic
-[![crates.io](https://img.shields.io/crates/v/mosaic.svg)](https://crates.io/crates/mosaic)
-[![Released API docs](https://docs.rs/mosaic/badge.svg)](https://docs.rs/mosaic)
-
-Mosiac is a crate for easily drawing tiles from a tilesheet with [`ggez`](https://crates.io/crates/ggez).
+# Patchwork
+Patchwork is a convenient crate for drawing tiles from a tilesheet using 
+a 'SpriteBatch'.
+An update to the 'Mosaic' crate by Repnop(https://github.com/repnop/mosaic),
+which is no longer maintained.
+[`ggez`](https://crates.io/crates/ggez).
 
 ## Example
 TODO
 
 ## License
-Mosaic is licensed under both MIT and Apache 2.0
+Patchwork is licensed under both MIT and Apache 2.0
