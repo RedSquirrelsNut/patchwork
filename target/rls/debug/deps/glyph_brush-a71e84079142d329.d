@@ -1,0 +1,10 @@
+c:\Users\chapm\Documents\Projects\git\mosaic\target\rls\debug\deps\glyph_brush-a71e84079142d329.rmeta: C:\Users\chapm\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.1\src\lib.rs C:\Users\chapm\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.1\src\glyph_brush.rs C:\Users\chapm\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.1\src\glyph_brush\builder.rs C:\Users\chapm\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.1\src\glyph_calculator.rs C:\Users\chapm\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.1\src\owned_section.rs C:\Users\chapm\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.1\src\section.rs
+
+c:\Users\chapm\Documents\Projects\git\mosaic\target\rls\debug\deps\glyph_brush-a71e84079142d329.d: C:\Users\chapm\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.1\src\lib.rs C:\Users\chapm\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.1\src\glyph_brush.rs C:\Users\chapm\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.1\src\glyph_brush\builder.rs C:\Users\chapm\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.1\src\glyph_calculator.rs C:\Users\chapm\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.1\src\owned_section.rs C:\Users\chapm\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.1\src\section.rs
+
+C:\Users\chapm\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.1\src\lib.rs:
+C:\Users\chapm\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.1\src\glyph_brush.rs:
+C:\Users\chapm\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.1\src\glyph_brush\builder.rs:
+C:\Users\chapm\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.1\src\glyph_calculator.rs:
+C:\Users\chapm\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.1\src\owned_section.rs:
+C:\Users\chapm\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.1\src\section.rs:

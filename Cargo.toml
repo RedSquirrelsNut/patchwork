@@ -1,0 +1,13 @@
+[package]
+name = "patchwork"
+version = "0.1.0"
+authors = ["Austin Chapman <chapmanredsquirrel@outlook.com>"]
+description = "A crate for easily drawing tiles from a tilesheet with `ggez`."
+repository = "https://github.com/RedSquirrelsNut/patchwork"
+readme = "README.md"
+license = "MIT OR Apache-2.0"
+keywords = ["tile", "ggez", "tilesheet", "texture", "rendering"]
+
+[dependencies]
+ggez = "0.5.1"
+nalgebra = {version = "0.19.0", features = ["mint"]}

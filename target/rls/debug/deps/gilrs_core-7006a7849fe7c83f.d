@@ -1,0 +1,10 @@
+c:\Users\chapm\Documents\Projects\git\mosaic\target\rls\debug\deps\gilrs_core-7006a7849fe7c83f.rmeta: C:\Users\chapm\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.2.5\src\lib.rs C:\Users\chapm\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.2.5\src\platform\mod.rs C:\Users\chapm\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.2.5\src\platform\windows\mod.rs C:\Users\chapm\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.2.5\src\platform\windows\ff.rs C:\Users\chapm\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.2.5\src\platform\windows\gamepad.rs C:\Users\chapm\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.2.5\src\utils.rs
+
+c:\Users\chapm\Documents\Projects\git\mosaic\target\rls\debug\deps\gilrs_core-7006a7849fe7c83f.d: C:\Users\chapm\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.2.5\src\lib.rs C:\Users\chapm\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.2.5\src\platform\mod.rs C:\Users\chapm\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.2.5\src\platform\windows\mod.rs C:\Users\chapm\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.2.5\src\platform\windows\ff.rs C:\Users\chapm\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.2.5\src\platform\windows\gamepad.rs C:\Users\chapm\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.2.5\src\utils.rs
+
+C:\Users\chapm\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.2.5\src\lib.rs:
+C:\Users\chapm\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.2.5\src\platform\mod.rs:
+C:\Users\chapm\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.2.5\src\platform\windows\mod.rs:
+C:\Users\chapm\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.2.5\src\platform\windows\ff.rs:
+C:\Users\chapm\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.2.5\src\platform\windows\gamepad.rs:
+C:\Users\chapm\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.2.5\src\utils.rs:

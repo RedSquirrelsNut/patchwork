@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_OP=c:\Users\chapm\Documents\Projects\git\mosaic\target\rls\debug\build\typenum-c4458f4280e8f61b\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=c:\Users\chapm\Documents\Projects\git\mosaic\target\rls\debug\build\typenum-c4458f4280e8f61b\out\op.rs
